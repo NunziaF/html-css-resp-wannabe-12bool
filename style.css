@@ -4,16 +4,18 @@ img {
   height: 200px;
 }
 
-#lezioni{
-  text-align: center;
-  margin-top: 100px;
-}
-
-#steps{
-  text-align: center;
-    margin-top: 60px;
-}
-
 [class*="col-"] {
   margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+#why img {
+  background-color:#428bca;
+  border-radius:50%;
+  padding:30px
+}
+
+.container{
+  margin-top: 60px;
+  text-align: center;
 }
