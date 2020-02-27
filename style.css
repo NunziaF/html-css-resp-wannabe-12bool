@@ -4,6 +4,16 @@ img {
   height: 200px;
 }
 
-#lezioni {
+#lezioni{
   text-align: center;
+  margin-top: 100px;
+}
+
+#steps{
+  text-align: center;
+    margin-top: 60px;
+}
+
+[class*="col-"] {
+  margin-bottom: 50px;
 }
